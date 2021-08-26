@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1572208885 source:/home/sedat/oop_workspace/2019/DynamicListExample/main.cpp
+	<iostream>
+	<dynamicList.h>
+
+1572208968 source:/home/sedat/oop_workspace/2019/DynamicListExample/src/dynamicList.cpp
+	"dynamicList.h"
+
+1572209097 /home/sedat/oop_workspace/2019/DynamicListExample/include/dynamicList.h
+
+1572394348 source:c:\users\ilayda\desktop\dynamiclistexample\dynamiclistexample\main.cpp
+	<iostream>
+	"dynamicList.h"
+
+1572390408 c:\users\ilayda\desktop\dynamiclistexample\dynamiclistexample\include\dynamiclist.h
+
+1572394488 source:c:\users\ilayda\desktop\dynamiclistexample\dynamiclistexample\src\dynamiclist.cpp
+	"dynamicList.h"
+	<string>
+	<iostream>
+
